@@ -2,7 +2,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-// Import all Assets
+// Import all Asset
 import { ReactComponent as Logo } from '../../shared/assets/icon/logo.svg';
 
 // Import all Themes

@@ -1,5 +1,8 @@
 {
+  // jest include
   "typeAcquisition": {
-    "include": ["jest"]
+    "include": [
+      "jest"
+    ]
   }
 }
